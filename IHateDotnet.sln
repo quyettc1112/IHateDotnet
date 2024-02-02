@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHateDotnet", "IHateDotnet\IHateDotnet.csproj", "{AE664F32-A626-4F22-A0A4-3EF1BB5A5FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZS.Data", "PZS.Data\PZS.Data.csproj", "{533601F3-72DE-4B7A-A123-2CEF6CA561DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE664F32-A626-4F22-A0A4-3EF1BB5A5FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE664F32-A626-4F22-A0A4-3EF1BB5A5FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE664F32-A626-4F22-A0A4-3EF1BB5A5FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE664F32-A626-4F22-A0A4-3EF1BB5A5FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{533601F3-72DE-4B7A-A123-2CEF6CA561DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533601F3-72DE-4B7A-A123-2CEF6CA561DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533601F3-72DE-4B7A-A123-2CEF6CA561DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533601F3-72DE-4B7A-A123-2CEF6CA561DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F92765A1-F1E2-44CA-9E54-468211C5F186}
+	EndGlobalSection
+EndGlobal
